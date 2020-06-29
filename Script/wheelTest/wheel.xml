@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<lottery>
+	<info id="1">
+		<dbname>lottery</dbname>
+		<host>localhost</host>
+		<name>root</name>
+		<password></password>
+                <url>http://server.localhost/?r=C_LuckyWheelServerResultapi</url>
+	</info>
+	
+</lottery>
