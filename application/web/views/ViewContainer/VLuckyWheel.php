@@ -204,7 +204,7 @@ if ($row = $result->fetch_assoc()) {
         </div>
         <div id="f2">
             <center>
-                <img src="http://www.pamelamoore.net/graphics/ui/loader.gif" alt="Please wait......." height="200px;">
+                <img src="/loading.gif" alt="Please wait......." height="200px;">
             </center>
         </div>
     </div>
